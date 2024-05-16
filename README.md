@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miabah Yousaf</h1>
 
-<p>Python Powerhouse!  Learning data science and building awesome websites with Django. I know JavaScript too!
-
-I love making websites that work great on any device.  I'm working hard to be a full-stack developer, so I'm always learning new things with Python.
-
-This GitHub shows my projects using Python - check them out!  Want to team up on cool coding projects? Let's do it! 💻🌐</p>
+<p>Python Powerhouse!  Learning data science and building awesome websites with Django. I know JavaScript too! I love making websites that work great on any device.  I'm working hard to be a full-stack developer, so I'm always learning new things with Python.
+  This GitHub shows my projects using Python - check them out!  Want to team up on cool coding projects? Let's do it! 💻🌐</p>
 <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  alt="Coding" width="400"/> <br>
 
 
