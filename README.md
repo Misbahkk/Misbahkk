@@ -35,4 +35,4 @@ height="30" width="40" />
 <p> <img src="https://komarev.com/ghpvc/?username=misbahkk&label=Profile%20views&color=0e75b6&style=flat" alt="misbahkk" /> </p>
 <p>This is the number of visitors to my profile README.md file.</p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=misbahkk&](https://github-readme-streak-stats.herokuapp.com/?user=misbahkk&)" alt="misbahkk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=misbahkk&" alt="misbahkk" /></p>
